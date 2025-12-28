@@ -10,7 +10,7 @@
 | 1     | 101.25&nbsp;&nbsp;201.50&nbsp;&nbsp;301.75&nbsp;&nbsp;402.00&nbsp;&nbsp;502.75 |
 # Date : 
 # Aim:
-To develop a C program using the static storage class in a function with a parameter and without a return value to display the required output.
+To develop a C program using the static storage class iin a function with a parameter and without a return value to display the required output.
 # Algorithm:
 ### Step 1:
   Start
